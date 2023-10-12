@@ -9,7 +9,9 @@
 
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true&langs_count=10)
+![](https://github-readme-stats.vercel.app/api?username=ondanjet&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ondanje&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ondanje&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!---
 ondanje/ondanje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
