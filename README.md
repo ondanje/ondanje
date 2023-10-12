@@ -1,10 +1,4 @@
 # 👋 About Me
-
-- 🌐 Software Developer & Cyber Security Enthusiast
-- 🎓 Software Engineering Student at ALX
-- 💼 Open to Collaborate on Exciting Projects
-- 💌 Let's Connect - Just Say Hello! 😎
-
 Welcome to my GitHub profile! I'm passionate about Software development and cyber security. As a software engineering student at ALX, I'm constantly learning and eager to contribute to innovative projects. Feel free to reach out and say hello. Let's explore new opportunities together! 🚀
 
 
