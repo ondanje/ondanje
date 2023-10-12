@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @ondanje
-- 👀 I’m interested in web development and blockchain technologies.
-- 🌱 I’m currently a software engineering student at ALX
-- 💞️ I’m looking to collaborate on various projects in the above fields
-- 📫 How to reach me ..just say a word😎
+# 👋 About Me
+
+- 🌐 Web Developer & Cyber Security Enthusiast
+- 🎓 Software Engineering Student at ALX
+- 💼 Open to Collaborate on Exciting Projects
+- 💌 Let's Connect - Just Say Hello! 😎
+
+Welcome to my GitHub profile! I'm passionate about web development and blockchain technologies. As a software engineering student at ALX, I'm constantly learning and eager to contribute to innovative projects. Feel free to reach out and say hello. Let's explore new opportunities together! 🚀
+
 
 - # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript) ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
