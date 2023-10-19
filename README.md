@@ -1,4 +1,6 @@
 # 👋 About Me
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
+
 Welcome to my GitHub profile! I'm passionate about Software development and cyber security. As a software engineering student at ALX, I'm constantly learning and eager to contribute to innovative projects. Feel free to reach out and say hello. Let's explore new opportunities together! 🚀
 
 
