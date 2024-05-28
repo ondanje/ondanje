@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm passionate about Software development. As a so
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ondanje&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ondanje&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ondanje&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!---
 ondanje/ondanje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
